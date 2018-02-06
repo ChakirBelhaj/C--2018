@@ -13,7 +13,8 @@ namespace ConsoleApp1
         {       
             Menu menu = new Menu();
             Class1 test  = new Class1();
-
+            Matrixx matrixx = new Matrixx();
+            matrixx.Main();
             menu.Run();
         }
     }
