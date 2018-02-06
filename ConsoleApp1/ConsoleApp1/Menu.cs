@@ -35,6 +35,8 @@ namespace ConsoleApp1
                         loop = exit(loop);
                         break;
                     case "5":
+                        Matrixx matrixx = new Matrixx();
+                        matrixx.Main();
                         break;
                    default:
                        Console.WriteLine("please select an option");
