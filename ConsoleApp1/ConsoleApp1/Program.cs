@@ -12,6 +12,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {       
             Menu menu = new Menu();
+            Class1 test  = new Class1();
+
             menu.Run();
         }
     }
