@@ -12,9 +12,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {       
             Menu menu = new Menu();
-            Matrixx matrixx  = new Matrixx();
+            Class1 test  = new Class1();
 
-            matrixx.Main();
+            menu.Run();
         }
     }
 }
