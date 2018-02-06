@@ -1,0 +1,7 @@
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
