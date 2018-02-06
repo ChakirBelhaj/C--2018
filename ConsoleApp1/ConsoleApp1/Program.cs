@@ -8,10 +8,11 @@ namespace ConsoleApp1
 {
     class Program
     {
+        // runs main
         static void Main(string[] args)
-        {
-            var run = new Menu();
-            run.Run();
+        {       
+            Menu menu = new Menu();
+            menu.Run();
         }
     }
 }

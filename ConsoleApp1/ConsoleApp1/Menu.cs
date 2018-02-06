@@ -11,12 +11,13 @@ namespace ConsoleApp1
         // declare public variable
         public string name;
 
+
         public void Run()
         {
             bool loop = true;
             while (loop) // Loop indefinitely
             {
-                Console.WriteLine(" Please enter your choice! \n 1. Save your name \n 2. Count numbers \n 3. What is my name? \n 4. Exit program"); // Menu
+                Console.WriteLine(" Please enter your choice! \n 1. Save your name \n 2. Count numbers \n 3. What is my name? \n 4. Exit program \n 5. PLEASE NO!"); // Menu
                 string option = Console.ReadLine(); // Get string from user
                 
                 switch (option) // switch statement
@@ -32,6 +33,8 @@ namespace ConsoleApp1
                         break;
                     case "4":
                         loop = exit(loop);
+                        break;
+                    case "5":
                         break;
                    default:
                        Console.WriteLine("please select an option");
