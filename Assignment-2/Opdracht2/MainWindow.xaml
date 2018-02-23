@@ -1,0 +1,29 @@
+﻿<Window x:Class="Opdracht2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opdracht2"
+        mc:Ignorable="d"
+        Title="Microwave-Team-Firefly" Height="350" Width="625">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="71*"/>
+            <ColumnDefinition Width="546*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="onOffButton" Content="Start" HorizontalAlignment="Left" Margin="461.463,279,0,0" VerticalAlignment="Top" Width="75" Click="onOffButton_Click" Grid.Column="1"/>
+        <Canvas x:Name="microwavescreen" Background="Black"  HorizontalAlignment="Left" Height="275" Margin="10,24,0,0" VerticalAlignment="Top" Width="388" Grid.ColumnSpan="2"/>
+        <Button x:Name="door" Content="Open" HorizontalAlignment="Left" Margin="363.463,279,0,0" VerticalAlignment="Top" Width="75" Click="door_Click" Grid.Column="1"/>
+        <ComboBox x:Name="dishesbox" SelectedValuePath="Content" HorizontalAlignment="Left" Margin="332.463,81,0,0" VerticalAlignment="Top" Width="204" Grid.Column="1">
+            <ComboBoxItem Name="item1">Item1</ComboBoxItem>
+            <ComboBoxItem Name="item2">Item2</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="dishesTextBox" HorizontalAlignment="Left" Height="23" Margin="332.463,24,0,0" TextWrapping="Wrap" Text="Dish" VerticalAlignment="Top" Width="204" RenderTransformOrigin="1.242,0.739" Grid.Column="1"/>
+        <Button x:Name="addDish" x:FieldModifier="public" Content="Add Dish" HorizontalAlignment="Left" Margin="332.463,52,0,0" VerticalAlignment="Top" Width="92" Click="addDish_Click" Height="23" Grid.Column="1"/>
+        <Button x:Name="deleteDish" Content="Delete Dish" HorizontalAlignment="Left" Margin="453.463,52,0,0" VerticalAlignment="Top" Width="83" Click="deleteDish_Click" Height="23" Grid.Column="1"/>
+        <TextBox x:Name="timer" HorizontalAlignment="Left" Height="23" Margin="332.463,139,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top" Width="83" RenderTransformOrigin="1.242,0.739" Grid.Column="1"/>
+        <Label Name="lblTime" FontSize="16" Content="00:00" HorizontalAlignment="Left" Margin="416.463,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.008,0.617" Grid.Column="1"/>
+        <Button x:Name="ResetTimer" Content="Reset" Grid.Column="1" HorizontalAlignment="Left" Margin="461,139,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="ResetTimer_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\bin\Debug\Opdracht2.exe.config
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\bin\Debug\Opdracht2.exe
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\bin\Debug\Opdracht2.pdb
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csprojResolveAssemblyReference.cache
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\MainWindow.g.cs
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\App.g.cs
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2_MarkupCompile.cache
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2_MarkupCompile.lref
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\MainWindow.baml
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.g.resources
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.Properties.Resources.resources
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csproj.GenerateResource.Cache
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.exe
+C:\Users\Chakir\Desktop\school\periode3\programmeren\C#-1\Opdracht2\Opdracht2\obj\Debug\Opdracht2.pdb
