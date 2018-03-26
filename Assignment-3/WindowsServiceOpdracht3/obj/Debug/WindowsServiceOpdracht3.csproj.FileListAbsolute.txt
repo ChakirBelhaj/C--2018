@@ -1,0 +1,21 @@
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe.config
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.pdb
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.ProjectInstaller.resources
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.csproj.GenerateResource.Cache
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.exe
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.pdb
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\site\page1.html
+C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\site\test.html
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\site\page1.html
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\site\test.html
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe.config
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.ProjectInstaller.resources
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.csproj.GenerateResource.Cache
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.csproj.CoreCompileInputs.cache
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.exe
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.pdb
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.pdb
+C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\obj\Debug\WindowsServiceOpdracht3.csprojResolveAssemblyReference.cache

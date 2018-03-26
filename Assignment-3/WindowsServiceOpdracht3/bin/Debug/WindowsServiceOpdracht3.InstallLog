@@ -1,0 +1,415 @@
+﻿Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Uninstalling assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Removing EventLog source opdracht3service.
+Service opdracht3service is being removed from the system...
+Service opdracht3service was successfully removed from the system.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Creating EventLog source opdracht3service in log Application...
+Rolling back assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Restoring event log to previous state for source opdracht3service.
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.InstallLog
+   assemblypath = C:\Users\Mouaad\source\repos\WindowsServiceOpdracht3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceopdracht3.exe
+Installing assembly 'C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
+Installing service opdracht3service...
+Service opdracht3service has been successfully installed.
+Creating EventLog source opdracht3service in log Application...
+Committing assembly 'C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.InstallLog
+   assemblypath = C:\Users\Chakir Belhaj\Desktop\school\periode-3\C-sharp-Team-firefly\Opdracht 3\WindowsServiceOpdracht3\bin\Debug\WindowsServiceOpdracht3.exe
